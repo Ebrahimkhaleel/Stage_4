@@ -26,8 +26,3 @@ Features
 - students.json: Stores student data (created automatically when file is executed)
 - README_student.md: This file
 
-##### Git Commits
-
-- Initial setup: Created project structure and Student class
-- Add JSON save/load: Implemented JSON file handling
-- Add error handling and update feature: Added input validation and update functionality
